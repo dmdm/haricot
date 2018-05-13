@@ -1,0 +1,16 @@
+[package]
+name = "haricot"
+version = "0.1.0"
+authors = ["dm <dm@localhost>"]
+
+[dependencies]
+slog = "*"
+slog-async = "*"
+slog-term = "*"
+chrono = "*"
+clap = "*"
+config = "*"
+serde= "*"
+serde_derive = "*"
+serde_json = "*"
+url = "*"
